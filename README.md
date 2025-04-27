@@ -18,7 +18,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution (GitHub)](https://github.com/ImagineBillie/Product-preview-card.git)
-- Live Site URL: [Live site](https://github.com/ImagineBillie/Product-preview-card.git)
+- Live Site URL: [Live site](https://imaginebillie.github.io/Product-preview-card/)
 
 ## My process
 

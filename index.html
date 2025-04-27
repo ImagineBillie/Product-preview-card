@@ -13,24 +13,21 @@
 <body>
   <main>
     <div class="card">
-        <picture>
-          <!-- Mobile image -->
-          <source 
-              media="(max-width: 724px)" 
-              srcset="/images/image-product-mobile.jpg"
-          >
-          <!-- Desktop image -->
-          <source 
-              media="(min-width: 725px)" 
-              srcset="/images/image-product-desktop.jpg"
-          >
-          <!-- Fallback image -->
-          <img 
-              src="/images/image-product-desktop.jpg" 
-              alt="Gabrielle Essence Eau De Parfum bottle"
-              class="product-image"
-          >
-        </picture>
+      <picture>
+        <source 
+          media="(max-width: 724px)" 
+          srcset="images/image-product-mobile.jpg"
+        >
+        <source 
+          media="(min-width: 725px)" 
+          srcset="images/image-product-desktop.jpg"
+        >
+        <img 
+          src="images/image-product-desktop.jpg" 
+          alt="Gabrielle Essence Eau De Parfum bottle"
+          class="product-image"
+        >
+      </picture>
       <div class="info">
         <p class="category">Perfume</p>
 
